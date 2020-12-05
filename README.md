@@ -24,3 +24,4 @@ samples, guidance on mobile development, and a full API reference.
 ![WhatsApp Video 2020-12-05 at 5 34 03 PM](https://user-images.githubusercontent.com/53315136/101243303-0d35a500-3721-11eb-854d-80857b752375.gif)
 
 ![WhatsApp Image 2020-12-05 at 6 22 00 PM](https://user-images.githubusercontent.com/53315136/101244216-de223200-3726-11eb-9a34-877d2ae0f901.jpeg)
+![WhatsApp Image 2020-12-05 at 6 25 05 PM](https://user-images.githubusercontent.com/53315136/101244270-3d804200-3727-11eb-96a1-782b58958aff.jpeg)
