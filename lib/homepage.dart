@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:sp17bcs040/cntact.dart';
 import 'package:sp17bcs040/simple.dart';
 import 'package:sp17bcs040/hard.dart';
 
@@ -88,7 +89,19 @@ class _homepageState extends State<homepage> {
                     ),
                   ],
                 ),
-              )
+              ),
+              IconButton(
+                icon: Icon(Icons.contacts),
+                iconSize: 50,
+                color: Colors.white,
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => MyApp()),
+                  );
+                },
+              ),
+              Text("Contact Us"),
             ],
           ),
         ),
